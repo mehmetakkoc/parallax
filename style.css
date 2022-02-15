@@ -73,18 +73,19 @@ body {
 .paragraf1 {
   background-color: var(--gri-4);
   margin-top: 0;
+  color: #000;
 }
 
 .paragraf1 h3 {
   text-align: center;
   margin: 0;
   padding: 16px;
-  color: #fff;
+  background-color: #fff;
 }
 .paragraf1 p {
   margin: 0px;
   padding: 10px;
-  color: #fff;
+  background-color: #fff;
 }
 /*! ucuncu bolüm */
 .div4 {
@@ -162,7 +163,7 @@ body {
   margin: 0;
   padding: 31px;
   font-size: 23px;
-  color: aliceblue;
+  color: black;
 }
 
 .paragraf33 h3:hover {
@@ -170,3 +171,5 @@ body {
   background-color: aqua;
  
 }
+
+
